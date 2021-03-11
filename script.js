@@ -8,7 +8,7 @@ let horror = 'I am a big fan of horror movies. Some of my favorites are "Scream"
 
 let embroidery = "During the pandemic I've been trying to teach myself embroidery. My goal is to make a small patch over the summer.";
 
-let coffee = "I love coffee and have been working at my dad's coffee company since I was 14. My go to drink order is an iced latte.";
+let coffee = "I love coffee and have been working at different coffee shops and cafes since I was 14. My go to drink order is an iced latte.";
 
 // link images
 
