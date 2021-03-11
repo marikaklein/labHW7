@@ -1,0 +1,30 @@
+p {
+	width: 450px;
+	padding-left: 470px;
+	padding-top: 90px;
+	font-family: Navigo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 35px;
+	text-align: center;
+	color: #945D29;
+}
+
+.horror {
+	position: absolute;
+	left: 43px;
+	top: 50px;
+}
+
+.embroidery {
+	position: absolute;
+	left: 520px;
+	top: 270px;
+}
+
+.coffee {
+	position: absolute;
+	left: 950px;
+	top: 50px;
+}
